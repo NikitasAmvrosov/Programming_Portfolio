@@ -1,0 +1,24 @@
+FMS/README.md
+
+# Flight Management System (C)
+
+A console-based Flight Management System written in C to simulate basic airline operations.  
+This project was developed as part of my programming practice and demonstrates the use of **structs, arrays, file handling, and modular code design**.
+
+## Features
+- Add, remove, and manage airlines, airports, and flights
+- Search for available flights between airports
+- Store and retrieve flight data using text files
+- Display flight paths and schedules
+- Menu-driven interface for user interaction
+
+## Technical Highlights
+- Implemented **structs** to represent Airlines, Airports, and FlightPaths
+- Used **dynamic arrays and file I/O** for persistent data storage
+- Focus on **modular programming** (separated header files and source files)
+- Error handling for invalid input and missing data
+
+## Skills Gained
+- Strengthened C fundamentals (structs, pointers, file I/O)
+- Practiced organizing larger programs into multiple files
+- Learned how to design and document a system with multiple components
