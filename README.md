@@ -1,7 +1,7 @@
 # Programming Portfolio
 
 Welcome to my programming portfolio!  
-This repository contains a selection of personal projects and coursework in **C, C++, and C#**, showcasing my learning journey in programming alongside my Aerospace Engineering studies.
+This repository contains a selection of personal projects and coursework in **C**, showcasing my learning journey in programming alongside my Aerospace Engineering studies.
 
 ## Projects
 - [C Coursework](./C-Coursework)  
